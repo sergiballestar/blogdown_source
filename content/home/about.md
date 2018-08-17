@@ -15,12 +15,6 @@ weight = 5
     "Data Visualisation",
     "Health data analysis (Big Data)",
   ]
-  
-[skills]
-  skills = [
-    "R, Markdown, Python",
-    "English, Spanish, Catalan"
-  ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
@@ -37,7 +31,13 @@ weight = 5
   course = "BSc Degree in Biology"
   institution = "University of Barcelona"
   year = 2016
- 
+
+[skills]
+  skills = [
+    "R, Markdown, Python",
+    "English, Spanish, Catalan",
+  ]
+
 +++
 
 # Biography

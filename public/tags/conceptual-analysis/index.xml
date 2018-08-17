@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conceptual analysis on Education &amp; Data Science</title>
+    <link>https://sergiballestar.github.io/tags/conceptual-analysis/</link>
+    <description>Recent content in Conceptual analysis on Education &amp; Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Mon, 01 Feb 2010 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://sergiballestar.github.io/tags/conceptual-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What films of mathematical scope teach us: analysis of stereotypes and appropriate mathematical content for students of ESO</title>
+      <link>https://sergiballestar.github.io/publication/what-do-math-films-teach-us/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0100</pubDate>
+      
+      <guid>https://sergiballestar.github.io/publication/what-do-math-films-teach-us/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
