@@ -1,10 +1,10 @@
 +++
-title = "What films of mathematical scope teach us: analysis of stereotypes and appropriate mathematical content for students of ESO"
-date = 2010-02-01T00:00:00
+title = "The kaleidoscope of nature"
+date = 2011-02-27T00:00:00
 draft = false
-
+  
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["María del Pilar Menoyo Díaz", "Sergi Albert Ballestar", "Jordana Calvo", "Ariadna de Diego"]
+authors = ["Sergi Albert Ballestar", "Victor de la Torre"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,14 @@ authors = ["María del Pilar Menoyo Díaz", "Sergi Albert Ballestar", "Jordana C
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "What films of mathematical scope teach us: analysis of stereotypes and appropriate mathematical content for students of ESO"
-publication_short = "In *Aula d'innovació educativa*"
-
+publication = "The kaleidoscope of nature. Euclidean and fractal geometry."
+ publication_short = "In *esdelibro.es* "
+ 
 # Abstract and optional shortened version.
-abstract = "The results of an educational research carried out in an institute in Barcelona by secondary school students are exposed around the definition of the profile of the mathematical professional based on the viewing of different films. The students designed and answered a questionnaire elaborated around the stereotype of the character created in a videogame. Comparisons were established between what was thought and what was reflected in the films, as well as the difference between a person dedicated to mathematics and what was projected in them."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -37,13 +37,13 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
 projects = []
-
+  
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["mathematics stereotype", "secondary education", "social research", "basic skills", "teaching aids", "film", "conceptual analysis"]
-
+tags = ["mathematics", "geometry", "euclidean", "fractal", "golden ratio", "nature", "conceptual analysis"]
+ 
 # Links (optional).
-url_pdf = ""
+url_pdf = "http://www.esdelibro.es/docs/default-source/Trabajos/2011/201100454_calidoscopi_trabajo.pdf?sfvrsn=8"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -51,8 +51,8 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://translate.google.com/translate?hl=en&sl=es&tl=en&u=http%3A%2F%2Fredined.mecd.gob.es%2Fxmlui%2Fhandle%2F11162%2F86947%3Flocale-attribute%3Des"
-
+url_source = "https://translate.google.com/translate?hl=en&sl=es&tl=en&u=http%3A%2F%2Fwww.esdelibro.es%2Finvestigadores%2Ftrabajo%2Fel-calidoscopi-de-la-natura-geometria-euclidiana-i-fractal&sandbox=1"
+  
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
