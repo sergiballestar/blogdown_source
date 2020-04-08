@@ -1,0 +1,3 @@
+[submodule "blogdown_source"]
+	path = blogdown_source
+	url = https://github.com/sergiballestar/blogdown_source
